@@ -1,4 +1,4 @@
-![dev picture](https://kinsta.com/fr/wp-content/uploads/sites/4/2019/07/comment-ajouter-du-code-a-l-en-tete-et-au-pied-de-page-de-wordpress-1024x512.png)
+![dev picture](/images/header.png)
 
 # Philippe Delaval
 
