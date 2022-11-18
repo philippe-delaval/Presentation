@@ -38,4 +38,6 @@ Autres
 - Randonnée
 
 ---
-© 2022 - Philippe Delaval - [Me Contacter](klareg@gmail.com)
+© 2022 - Philippe Delaval - [Me Contacter](mailto:klareg@gmail.com?subject=[GitHub]%20Message%20en%20provenance%20de%20GitHub)
+
+![dev picture](/images/footer.png)

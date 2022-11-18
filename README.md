@@ -1,8 +1,6 @@
 ![dev picture](/images/header.png)
 
-# Philippe Delaval
-
-*Développeur web junior, en formation "Développement Web et Accessibilité"*
+### *Développeur web junior, en formation "Développement Web et Accessibilité"*
 
 [Accueil](README.md) -
 [Projets](projets.md) -
