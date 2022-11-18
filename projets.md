@@ -18,7 +18,6 @@
 | Mme Michu  |  2017  | HTML, CSS                | [Mme Michu](https://fr.wiktionary.org/wiki/Madame_Michu#:~:text=Nom%20propre&text=N'importe%20qui%2C%20la%20Fran%C3%A7aise%20moyenne.)     |
 
 ---
-© 2022 - Philippe Delaval - [Me Contacter](mailto:klareg@gmail.com?subject=[GitHub]%20Message%20en%20provenance%20de%20GitHub)
 
 ![dev picture](/images/footer.png)
 

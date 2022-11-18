@@ -15,6 +15,5 @@ Le prénom de Linus lui vient de Linus Pauling, chimiste américain récipiendai
 Il découvre l'informatique vers l’âge de 11 ans grâce à l'ordinateur de son grand-père, un Commodore VIC-2011.
 
 ---
-© 2022 - Philippe Delaval - [Me Contacter](mailto:klareg@gmail.com?subject=[GitHub]%20Message%20en%20provenance%20de%20GitHub)
 
 ![dev picture](/images/footer.png)
