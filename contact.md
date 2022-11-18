@@ -15,8 +15,7 @@ N'hésitez pas une seule seconde, contactez-moi !
 
 :mailbox: contact@philippedelaval.com  
 :phone: 06 07 08 09 10  
-:pill:  [Linkedin](https://www.linkedin.com/in/philippe-delaval/)  
-:ramen: [Twitter](https://www.linkedin.com/in/philippe-delaval/)  
+:pill:  [Linkedin](https://www.linkedin.com/in/philippe-delaval/)   
 
 
 ---

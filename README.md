@@ -18,3 +18,5 @@ Il découvre l'informatique vers l’âge de 11 ans grâce à l'ordinateur de so
 
 ---
 © 2022 - Philippe Delaval - [Me Contacter](klareg@gmail.com)
+
+![dev picture](/images/footer.png)
