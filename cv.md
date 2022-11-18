@@ -9,6 +9,8 @@
 [CV](cv.md) -
 [Contact](contact.md)
 
+---
+
 ## CV
 
 Philippe Delaval
@@ -36,7 +38,5 @@ Autres
 - Permis B
 - Escalade
 - Randonnée
-
----
 
 ![dev picture](/images/footer.png)
